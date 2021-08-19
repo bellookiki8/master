@@ -1,0 +1,295 @@
+.first-header{
+	margin: 20px 100px;
+	background: #fff;
+	color: #000;
+	height: 50px;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+ul.menu{
+	list-style-type: none;
+	padding-top: 2px; 
+}
+.menu li{
+	display: inline;
+	margin: 20px;
+}
+.first-header img{
+ padding-top: 5px;
+}
+.lady{
+	background: url(lady.jpg);
+	width: 100%:;
+	height: 500px;
+	background-size: cover;
+	border-top: 0px;
+}
+.proffesional{
+	margin-left: 100px;
+	padding-top: 100px;
+}
+.text-xxlg{
+	font-size: xx-large;
+}
+.text-xlg{
+	font-size: x-large;
+}
+.text-lg{
+	font-size: large;
+}
+.text-sm{
+	font-size: small;
+}
+.circle{
+	border: 1px solid white;
+	border-radius: 50%;
+	padding: 2px;
+}
+ul.fixed-right {
+	position: fixed;
+	background-color: white;
+	top: 30vh;
+	right: 20px;
+	padding: 10px;
+}
+ul.fixed-right li {
+	color: #aaa;
+	padding: 5px;
+	padding-bottom: 20px
+}
+.about{
+	margin-left: 50px;
+}
+#blue{
+	color: #51a0c0;
+}
+.btn-white{
+	background-color: #fff;
+	color: #505050;
+	padding: 15px 25px;
+	border-radius: 20px;
+	border:none;
+}
+.number{
+	background: #b9f7f9;
+	width: 28%;
+	height: 230px;
+	border-radius: 4%;
+	padding: 50px 30px;
+	position: relative;
+	bottom: 70px
+}
+
+.middle{
+	background: #d4fdfe;
+	width: 28%;
+	height: 260px;
+	border-radius: 4%;
+	padding: 50px 30px;
+	margin-left: 0px;
+	position: relative;
+	bottom: 80px;
+}
+.last{
+	background: #b9f7f9;
+	width: 28%;
+	height: 230px;
+	border-radius: 4%;
+	padding: 50px 30px;
+	margin-left: 0px;
+	margin-right: 25px;
+	position: relative;
+	bottom: 70px;
+}
+/*.img{
+	margin-left: 50px;
+	margin-right: 50px;
+}*/
+.doc{
+	margin-left: 50px;
+	width: 30%
+}
+.clinic{
+	margin-right: 50px;
+	width: 30%
+}
+#mc{
+	background: #3ce2ad;
+	color: #fff;
+	width: 80%;
+	height: 30px;
+	padding: 15px;
+}
+#mc2{
+	background: #f4f4f4;
+	color: #000;
+	width: 80%;
+	height: 30px;
+	padding: 15px;
+	margin-top: 3px;
+}
+.help-you{
+	background: url(Rectangle-bg.jpg);
+	background-size: cover;
+	height: 1000px;
+	width: 100%;
+}
+.center{
+	text-align: center;
+}
+.word{
+	padding-top: 50px; 
+	font-family: verdana;
+}
+.classes{
+	background: #fff;
+	height: 700px;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 2%;
+	border-radius: 1%;
+}
+.class{
+	width: 25%;
+	margin:70px 0px 70px 50px;
+	border: 1px solid white;
+	padding: 10px;
+}
+.class2{
+	width: 25%;
+	margin:3px 0px 70px 50px;
+	border: 1px solid white;
+	padding: 10px;
+}
+.meet-our-doctor{
+	margin-left: 120px;
+	background: #fff;
+	margin-top: 60px;
+}
+.jenna-berg{
+	border: 1px solid white;
+	width: 35%;
+	height: 350px;
+}
+.btn-green{
+	background: #3ce2ad;
+	padding: 15px;
+	border: none;
+	border-radius: 20px;
+	height: 38px;
+	margin-left: 20px;
+}
+.dr-jenna{
+	width: 50%;
+	height: 370px;
+	border: 1px solid white;
+	margin-right: 120px;
+}
+.dr-jenna > img{
+	width: 100%;
+	height: 100%;
+}
+.doctors{
+	background: #f4f4f4;
+	color: #000;
+	width: 100%;
+	height: 300px;
+	margin: 0px 3px;
+}
+.small{
+	width: 5%;
+	height: 10%:;
+	text-align:center;
+	padding-top: 100px;
+	padding-left: 200px;
+}
+.special-offer{
+	background: url(BG.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 800px;
+	margin-top: 0px;
+}
+.offers{
+	text-align: center;
+	color: #000;
+	padding-top: 100px;
+}
+.offer-check{
+	background: #d4fdfe;
+	color: black;
+	width: 25%;
+	height:500px;
+	margin-left: 50px;
+	text-align: center;
+	padding: 20px;
+	position: relative;
+	top: 60px;
+}
+.eye-check{
+	background: #fff;
+	color: black;
+	width: 28%;
+	height:550px;
+	text-align: center;
+	padding: 20px;
+	position: relative;
+	top: 40px;
+	border: 3px solid #f4f4f4;
+	margin-left: 0px; 
+}
+.faq{
+	background: #fff;
+	width: 80%;
+	height: 300px;
+	margin-top: 150px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.f-aq{
+	width: 40%;
+}
+#mr{
+	background: #f4f4f4;
+	color: #000;
+	width: 100%;
+	height: 30px;
+	padding: 15px;
+}
+#mr2{
+	background: #fff;
+	color: #000;
+	width: 100%;
+	height: 30px;
+	padding: 15px;
+	margin-top: 3px;
+}
+.green{
+	color: #46e3b1;
+}
+.dark{
+	background: #e5e3df;
+	text-align: center;
+	width: 100%;
+	height: 400px;
+	margin-top: 100px;
+}
+.dark-img{
+	padding: 200px;
+}
+.contact{
+	background: #f4f4f4;
+	margin-top: 0px;
+	width: 100%;
+	height:150px;
+}
+.address{
+	display: inline-block;
+	width: 20px;
+	padding: 40px;
+}
